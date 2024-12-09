@@ -1,5 +1,5 @@
 <?php
-/** * Program Name: Affiliate Program Finder Tool 
+/** * Program Name: Smoke-Free Calculator 
 * Author: Barbara Hohensee
 * Version: 1.0.0 
 * Last Updated: 2024-12-09 
